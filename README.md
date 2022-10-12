@@ -68,7 +68,7 @@ describe("shout(string)", function () {
 These internal `describe()` calls are used for _describing_ the functions that
 you're going to write. In this case, the test is saying, "Okay, I think there's
 going to be a function called `shout`, and it should take one argument (it
-doesn't actually matter what the argument is called, but `string`, is nice and
+doesn't actually matter what the argument is called, but `string`, is nice and 
 specific, don't you think?). It should _return_ that argument in all caps.
 
 Finally, we have
